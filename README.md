@@ -1,4 +1,4 @@
-# Calculator
+# My calculator
 <html>
 <head>
 <title>HTML Calculator</title>
