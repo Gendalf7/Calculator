@@ -22,7 +22,8 @@
 <input type="button" value="0" onClick="document.calculator.ans.value+='0'">
 <input type="reset" value="Reset">
 <input type="button" value="=" onClick="document.calculator.ans.value=eval(document.calculator.ans.value)">
-<br><input type="textfield" name="ans" value="">
+<br>
+<input type="textfield" name="ans" value="">
 </form>
 </body>
 </html>
